@@ -1,0 +1,30 @@
+D:\Тестер\3 часть 1 урок\Zadachi\bin\Debug\net6.0\Zadachi.exe
+D:\Тестер\3 часть 1 урок\Zadachi\bin\Debug\net6.0\Zadachi.deps.json
+D:\Тестер\3 часть 1 урок\Zadachi\bin\Debug\net6.0\Zadachi.runtimeconfig.json
+D:\Тестер\3 часть 1 урок\Zadachi\bin\Debug\net6.0\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\bin\Debug\net6.0\Zadachi.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.csproj.AssemblyReference.cache
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.AssemblyInfoInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.AssemblyInfo.cs
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.csproj.CoreCompileInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\refint\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\Zadachi.genruntimeconfig.cache
+D:\Тестер\3 часть 1 урок\Zadachi\obj\Debug\net6.0\ref\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\bin\Debug\net6.0\Zadachi.exe
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\bin\Debug\net6.0\Zadachi.deps.json
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\bin\Debug\net6.0\Zadachi.runtimeconfig.json
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\bin\Debug\net6.0\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\bin\Debug\net6.0\Zadachi.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.csproj.AssemblyReference.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.AssemblyInfoInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.AssemblyInfo.cs
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.csproj.CoreCompileInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\refint\Zadachi.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\Zadachi.genruntimeconfig.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 1\obj\Debug\net6.0\ref\Zadachi.dll
