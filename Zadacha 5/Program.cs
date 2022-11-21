@@ -4,16 +4,6 @@
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
 // 2 -> "-2, -1, 0, 1, 2"
 
-Console.WriteLine("Введите число ");
-int num =Convert.ToInt32(Console.ReadLine());
 
-int negNum=- num;
-
-while (negNum<=num)
-{
-    Console.WriteLine(negNum);
-    // negNum=negNum+1 тоже самое
-    // negNum+=1
-    negNum++;
-
-}
+foreach (int i in Enumerable.Range(1, int.Parse(Console.ReadLine()) >> 1))
+Console.WriteLine(i << 1);
