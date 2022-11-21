@@ -1,0 +1,15 @@
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\bin\Debug\net6.0\3 zadacha.exe
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\bin\Debug\net6.0\3 zadacha.deps.json
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\bin\Debug\net6.0\3 zadacha.runtimeconfig.json
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\bin\Debug\net6.0\3 zadacha.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\bin\Debug\net6.0\3 zadacha.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.csproj.AssemblyReference.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.AssemblyInfoInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.AssemblyInfo.cs
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.csproj.CoreCompileInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\refint\3 zadacha.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\3 zadacha.genruntimeconfig.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Homework 1\3 zadacha\obj\Debug\net6.0\ref\3 zadacha.dll
