@@ -1,0 +1,15 @@
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\bin\Debug\net6.0\Zadacha 5.exe
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\bin\Debug\net6.0\Zadacha 5.deps.json
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\bin\Debug\net6.0\Zadacha 5.runtimeconfig.json
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\bin\Debug\net6.0\Zadacha 5.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\bin\Debug\net6.0\Zadacha 5.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.csproj.AssemblyReference.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.AssemblyInfoInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.AssemblyInfo.cs
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.csproj.CoreCompileInputs.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\refint\Zadacha 5.dll
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.pdb
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\Zadacha 5.genruntimeconfig.cache
+D:\Тестер\3 часть 1 урок\Zadachi\Zadacha 5\obj\Debug\net6.0\ref\Zadacha 5.dll
