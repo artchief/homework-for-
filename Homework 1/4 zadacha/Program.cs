@@ -15,5 +15,5 @@ while (count<=N)
     Console.WriteLine(count);
     // negNum=negNum+1 тоже самое     // count+=1     // count++;
     // count=count+2 тоже самое
-    count+=2
+    count+=2;
 }
