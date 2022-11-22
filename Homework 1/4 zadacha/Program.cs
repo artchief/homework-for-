@@ -4,16 +4,16 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.WriteLine("Введите число ");
-int num =Convert.ToInt32(Console.ReadLine());
+Console.Clear();
+Console.WriteLine("Введите число N= ");
+int N =Convert.ToInt32(Console.ReadLine());
 
-int negNum= 1;
+int count= 2;
 
-while (negNum<=num)
+while (count<=N)
 {
-    Console.WriteLine(negNum);
-    // negNum=negNum+1 тоже самое
-    // negNum+=1
-    negNum++;
+    Console.WriteLine(count);
+    // negNum=negNum+1 тоже самое     // count+=1     // count++;
+    // count=count+2 тоже самое
+    count+=2
 }
-if (negNum%2==0);
